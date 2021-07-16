@@ -2,12 +2,16 @@
 
 Now I'm working as a frontend developer from China.
 
+Blog：[Johnny's blog](https://hezhuoyi.github.io/blog)
+LeetCode：[Johnny](https://hezhuoyi.github.io/leetcode)
+掘金：[Johnny_FE](https://juejin.cn/user/3597257778155703)
+
 - 🔭 I’m currently working on [Trip.com](https://www.trip.com)
 - 🌱 I’m currently learning Hybrid App.
 - 😜 I'm focusing on Front-end engineering.
 - 🤔 I’m looking for more friends to improve together.
 - 💬 Ask me about anything.
-- 📫 How to reach me: Wechat: Johnny_FE
+- 📫 How to reach me: Johnny_FE(WeChat) && he99999@vip.qq.com(Email)
 
 
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=hezhuoyi&theme=vue-dark) 
