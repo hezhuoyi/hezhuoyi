@@ -11,7 +11,7 @@ LeetCode：[Leetcode By Johnny](https://hezhuoyi.github.io/leetcode) /
 - 😜 I'm focusing on Front-end engineering.
 - 🤔 I’m looking for more friends to improve together.
 - 💬 Ask me about anything, Nice to meet you.
-- 📫 How to reach me: Johnny_FE(WeChat) / he99999@vip.qq.com(Email)
+- 📫 How to reach me: Johnny_FE(WeChat) / 18818050503@163.com(Email)
 
 
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=hezhuoyi&theme=vue-dark) 
